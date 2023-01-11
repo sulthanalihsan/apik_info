@@ -10,7 +10,7 @@
 "version": "2.0.5",
 "toastMsg": "Tersedia versi terbaru APIK",
 "dialogMsg": "Tersedia versi terbaru APIK, Silahkan lakukan pembaruan aplikasi",
-"forceUpdate": false,
+"forceUpdate": true,
 "appUrl": "https://apps.apple.com/us/app/apik-kalsel/id6443955580"
 }
 }
