@@ -1,6 +1,6 @@
 {
-	“presence_camera” : {
-		“camera” : true,
-		“face_recognition” : true
+	"presence_camera": {
+		"camera": true,
+		"face_recognition": true
 	}
 }
