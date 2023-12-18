@@ -1,9 +1,9 @@
 {
 "android": {
-"version": "2.0.5",
+"version": "3.0.0",
 "toastMsg": "Tersedia versi terbaru APIK",
 "dialogMsg": "Tersedia versi terbaru APIK, Silahkan lakukan pembaruan aplikasi",
-"forceUpdate": false,
+"forceUpdate": true,
 "appUrl": "https://play.google.com/store/apps/details?id=id.go.kalselprov.apik"
 },
 "ios": {
